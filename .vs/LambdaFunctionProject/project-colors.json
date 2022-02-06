@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "402489b9-f52e-429b-a860-f74731e59a8d": {
+      "ProjectGuid": "402489b9-f52e-429b-a860-f74731e59a8d",
+      "DisplayName": "LambdaFunction",
+      "ColorIndex": 0
+    },
+    "848e9995-b313-4085-95ac-fa9e7e102c82": {
+      "ProjectGuid": "848e9995-b313-4085-95ac-fa9e7e102c82",
+      "DisplayName": "ExemploFuncaoLambda.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

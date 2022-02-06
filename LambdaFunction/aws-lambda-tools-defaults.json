@@ -1,0 +1,13 @@
+{
+  "Information": [
+    "Lambda function for zip code query."
+  ],
+  "profile": "default",
+  "region": "us-east-1",
+  "configuration": "Release",
+  "framework": "netcoreapp3.1",
+  "function-runtime": "dotnetcore3.1",
+  "function-memory-size": 256,
+  "function-timeout": 30,
+  "function-handler": "LambdaFunction::LambdaFunction.Function::FunctionHandlerAsync"
+}

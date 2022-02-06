@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7245ef4d-3236-416d-8f81-9e7536c42ccb": {
+      "ProjectGuid": "7245ef4d-3236-416d-8f81-9e7536c42ccb",
+      "DisplayName": "LambdaFunction",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
